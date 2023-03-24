@@ -1,4 +1,4 @@
-<h1 align="center">Приветствую тебя здесь, Я <a href="https://t.me/@Somfer" target="_blank">Somfer</a> 
+<h1 align="center">Приветствую тебя здесь, Я <a href="https://t.me/Somfer" target="_blank">Somfer</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Студент-матетатик-информатик из России</h3>
 <div align="center" left="33">
